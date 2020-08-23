@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [angular/rails project](https://gitlab.com/erickAvSanti/inversioneszavaleta-angular)
 
-- 🌱 I’m currently learning **Rust, DynamoDB, Devops fundaments, CI / CD**
+- 🌱 I’m currently learning **Rust, DynamoDB, Devops fundaments, CI / CD, Microservices**
 
 - 👨‍💻 All of my projects are available at github and gitlab [https://gitlab.com/erickAvSanti](https://gitlab.com/erickAvSanti)
 

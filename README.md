@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickavsanti" alt="erickavsanti" /> </p>
 
-- 🔭 I’m currently working on [angular/rails project](https://gitlab.com/erickAvSanti/inversioneszavaleta-angular)
+- 🔭 I’m currently working on [angular/nextjs/node/rails project](https://gitlab.com/erickAvSanti/inversioneszavaleta-angular)
 
 - 🌱 I’m currently learning **Rust, DynamoDB, Devops fundaments, CI / CD, Microservices**
 
 - 👨‍💻 All of my projects are available at github and gitlab [https://gitlab.com/erickAvSanti](https://gitlab.com/erickAvSanti)
 
-- 💬 Ask me about **vue, angular, laravel, rails, aws**
+- 💬 Ask me about **react, nextjs, angular, laravel, rails, node, aws**
 
 - 📫 How to reach me **ecavaloss@gmail.com**, Linkedin: https://www.linkedin.com/in/erickavalos/
 

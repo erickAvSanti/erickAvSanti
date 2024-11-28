@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick avalos</h1>
-<h3 align="center">A fullstack developer from Perú 🇵🇪</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erickavsanti" alt="erickavsanti" /> </p>
+<h3 align="center">A fullstack engineer from Perú 🇵🇪</h3>
 
 - 🔭 I’m currently working on [angular/nextjs/node/rails project](https://gitlab.com/erickAvSanti/inversioneszavaleta-angular)
 
